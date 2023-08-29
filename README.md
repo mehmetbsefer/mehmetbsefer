@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Mehmet B. Sefer.
+
+I’m currently working on Computational Techniques for Aerospace Design missions. 
+
 <!--
 **mehmetbsefer/mehmetbsefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
